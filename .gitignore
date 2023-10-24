@@ -39,6 +39,9 @@ bld/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
+db/
+incremental_db/
+simulation/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -111,6 +114,7 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+*.bak
 
 # Visual Studio profiler
 *.psess
